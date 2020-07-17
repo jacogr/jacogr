@@ -2,7 +2,7 @@
 
 I build stuff. And hopefully you find some of it useful. If not, let me know via an issue, or even better, get a PR ready and I'll owe you a drink of your choice.
 
-Currently I am 100% focussed on building [polkadot-js](https://github.com/polkadot-js). When not actually writing code, I also help others be productive in their daily efforts using code and products I had a hand in. 
+Currently I am 100% focussed on building [polkadot-js](https://github.com/polkadot-js). When not actually writing code, I also help others be productive in their daily efforts using code and products I had a hand in. I'm fortunate that I actually get to use the products I've built 7 days a week, both as a user-of-APIs and user-of-UIs - and yes, a lot of times I can see that we are not "there" yet.
 
 As for the rest of my time? Well, I love spending it with my family and exploring. The world is a big place to see.
 
