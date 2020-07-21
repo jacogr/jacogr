@@ -6,6 +6,8 @@ Currently I am 100% focussed on building [polkadot-js](https://github.com/polkad
 
 As for the rest of my time? Well, I love spending it with my family and exploring. The world is a big place to see.
 
+If you want to know a bit more about me, my IPNS [jacogr.info](https://jacogr.info/) site has some small tidbits. 
+
 <!--
 **jacogr/jacogr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
